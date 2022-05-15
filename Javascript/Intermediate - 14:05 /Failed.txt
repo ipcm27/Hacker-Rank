@@ -1,0 +1,3 @@
+Preciso estudar mais node:
+1) Requisição usando https
+2) herança via prototype
